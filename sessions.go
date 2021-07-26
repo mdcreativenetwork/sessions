@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	DefaultKey    = "github.com/MeloQi/sessions"
+	DefaultKey    = "github.com/Asianatix/sessions"
 	errorFormat   = "[sessions] ERROR! %s\n"
 	defaultMaxAge = 60 * 60 * 24 * 30 // 30 days
 	defaultPath   = "/"
